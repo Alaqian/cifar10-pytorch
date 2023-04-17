@@ -1,4 +1,4 @@
-# CS-GY 6953 / ECE-GY 7123 Miniproject
+# CS-GY 6953 / ECE-GY 7123 Miniproject Test Edit
 
 Convolutional neural networks and, most recently, transformer-based models dominate deep learning for computer vision.
 Models based on these architectures achieve high accuracy often at the expense of computational complexity, with even
